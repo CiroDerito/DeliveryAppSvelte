@@ -18,8 +18,4 @@
         color: rgb(255, 254, 254);
         margin-top: 20px;
     }
-    .hero h2:hover {
-        color: yellow;
-        transition: color 0.3s ease;
-    }  
 </style>
